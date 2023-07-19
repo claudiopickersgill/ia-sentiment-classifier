@@ -1,2 +1,2 @@
 # ia-sentiment-classifier
-Sentiment Classifier using the ZeroShotGPTClassifier class with the gpt-3.5-turmo template.
+Sentiment Classifier using the ZeroShotGPTClassifier class with the gpt-3.5-turbo template.
